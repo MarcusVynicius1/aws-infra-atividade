@@ -24,7 +24,7 @@
 # AWS AULA
 ![image](https://github.com/user-attachments/assets/08a4117a-736d-48f7-b84d-98c8c4dd1510)
 
-# RC2
+# RDS
 ![image](https://github.com/user-attachments/assets/91d825d7-a65a-45c8-acd3-acedcc044430)
 
 ![image](https://github.com/user-attachments/assets/5028fe31-99c9-4094-a530-850a39aa03ea)
